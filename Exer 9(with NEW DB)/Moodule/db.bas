@@ -11,7 +11,7 @@ Option Explicit
 '    Modified   :
 '--------------------------------------------------------------------------------
 '</CSCC>
-Public ServerPath             As String
+Public ServerPath2             As String
 
 Public ReportPath             As String
 
