@@ -1,4 +1,4 @@
-11/13/2025  - 3:53:55 pm --- New session.....................................................
+11/13/2025  - 3:53:55 pm --- New session..................................................... Shahanie 
 11/13/2025  - 3:53:55 pm --- Call Teamwebplus / Brayan for support at (0915-891-8530) issue Logged --- in LendingClientV2.DBsetup.connect /  106
 11/13/2025  - 3:54:00 pm --- The connection cannot be used to perform this operation. It is either closed or invalid in this context. --- in LendingClientV2.DBsetup.Customer2New /  110
 11/13/2025  - 3:55:17 pm --- New session.....................................................
@@ -83,3 +83,4 @@
 11/18/2025  - 3:03:24 pm --- A number, currency amount, boolean, date, time, date-time, or string is expected here. --- in Please call brayan immediately 0915-891-8530 LendingClientV2.rep_LoansMaturityChecker.PrintReport /  0
 11/18/2025  - 3:53:21 pm --- New session.....................................................
 11/18/2025  - 3:53:21 pm --- Multiple-step operation generated errors. Check each status value. --- in Please call brayan immediately 0915-891-8530 LendingClientV2.frm_Customer.btnAdd_Click /  130
+
