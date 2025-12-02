@@ -12,6 +12,14 @@ Begin VB.Form frmCustomer
    ScaleHeight     =   11040
    ScaleWidth      =   21270
    StartUpPosition =   3  'Windows Default
+   Begin VB.CommandButton cmddd 
+      Caption         =   "sample"
+      Height          =   615
+      Left            =   18120
+      TabIndex        =   31
+      Top             =   840
+      Width           =   1935
+   End
    Begin VB.CommandButton cmdCustomerInfo 
       Caption         =   "Customer's Info"
       BeginProperty Font 
@@ -238,7 +246,7 @@ Begin VB.Form frmCustomer
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   135462913
+         Format          =   116457473
          CurrentDate     =   45974
       End
       Begin VB.TextBox txtNationality 
@@ -754,6 +762,10 @@ cmdCustomerInfo_Click_Err:
 
         '</EhFooter>
 
+End Sub
+
+Private Sub cmddd_Click()
+    UnloadMe
 End Sub
 
 Private Sub DataGrid1_Click()
